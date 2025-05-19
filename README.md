@@ -21,22 +21,23 @@
 
 <img align="right" width="300" height="220" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2ExNWk3dXBiNzFwdGdpYnZmaXJ4NWlmMnpndG5rNjJqeTI0b2R4NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
 
-Desarrollador Full Stack especializado en Backend, con sólida experiencia en Java y Python. Motivado y comprometido con gran capacidad de aprendizaje. Apasionado por la arquitectura de sistemas, APIs RESTful y soluciones técnicas eficientes orientadas a resultados. Actualmente, como Software Engineer en un proyecto (Restake Watch) para la Ethereum Foundation, contribuyo activamente al desarrollo de soluciones técnicas avanzadas para Restake Watch, una plataforma de análisis de riesgo en el ecosistema de restaking. Mi trabajo se centra en la automatización, gestión de datos y servicios backend.
+Actualmente, como **Software Engineer en un proyecto para Ethereum Foundation**, contribuyo activamente al desarrollo de soluciones técnicas avanzadas para **Restake Watch**, una plataforma de análisis de riesgo en el ecosistema de restaking. Mi trabajo se centra en la automatización, gestión de datos y servicios backend.
 
-Mis responsabilidades incluyen:
-- Diseño y mantenimiento de scripts y métricas utilizando Python.
-- Desarrollo de APIs REST y automatización de flujos de trabajo con AWS Lambda, S3 y EC2.
-- Gestión y optimización de bases de datos MongoDB.
-- Implementación de tareas de web scraping con Selenium.
-- Automatización de la generación de reportes e integración con Twitter.
-- Liderazgo en la creación y mantenimiento de subgraphs con The Graph (GraphQL) para interactuar con smart contracts de Ethereum.
-- Gestión de control de versiones con Git/GitHub, implementando flujos seguros con GitHub Actions.
+**Mis responsabilidades incluyen:**
+- Diseño y mantenimiento de scripts y métricas utilizando **Python**.
+- Desarrollo de APIs REST y automatización de flujos de trabajo con **AWS Lambda, S3 y EC2.**
+- Gestión y optimización de bases de datos **MongoDB.**
+- Implementación de tareas de **web scraping con Selenium.**
+- Automatización de la generación de reportes con Twitter.
+- Liderazgo en la creación y mantenimiento de subgraphs con **The Graph (GraphQL)** para interactuar con smart contracts de Ethereum.
+- Gestión de control de versiones con **Git/GitHub**, implementando flujos seguros con GitHub Actions.
 
 
-- El proyecto tuvo buena aceptación y se convirtio en empresa.
+El proyecto tuvo buena aceptación y se convirtio en empresa.
 Conoce más sobre Restake Watch: https://restake.watch/
 
-- 🔭 Actualmente trabajo en **Ethereum Foundation** como Software Engineer
+## Resumen
+- 🔭 Actualmente trabajo en un proyecto para **Ethereum Foundation** como Software Engineer
 - 🌱 Aprendiendo constantemente sobre **Spring Boot, AWS, GraphQL y Blockchain**
 - 💼 Experiencia con **Java, Python, JavaScript, PHP, SQL, NoSQL, RESTful APIs**
 - 💻 Enfoque principal en desarrollo **Backend y arquitectura de aplicaciones**
@@ -48,7 +49,7 @@ Conoce más sobre Restake Watch: https://restake.watch/
 Creatividad | Proactividad | Trabajo en equipo | Resolución de Problemas | Adaptabilidad | Inteligencia Emocional | Comunicación Asertiva | Gestión y Administración de Tiempo | Orientación al detalle
 
 
-## 🛠️ Habilidades Técnicas
+## 🛠️ Hard Skills
 
 <table>
   <tr>
@@ -69,7 +70,6 @@ Creatividad | Proactividad | Trabajo en equipo | Resolución de Problemas | Adap
       <div align="center">  
         <a href="https://aws.amazon.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" /></a>  
         <a href="https://www.linux.org/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
-        <a href="https://www.docker.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /></a>  
         <a href="https://www.gnu.org/software/bash/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" /></a>  
       </div>
     </td>
@@ -81,12 +81,12 @@ Creatividad | Proactividad | Trabajo en equipo | Resolución de Problemas | Adap
         <a href="https://www.javascript.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
         <a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a>  
       </div>
-      <h3 align="center">DevOps & Control de Versiones</h3>
+      <h3 align="center">Control de Versiones</h3>
       <div align="center">  
         <a href="https://github.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
-        <a href="https://github.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/github.svg" alt="GitHub" height="50" /></a>  
-        <a href="https://about.gitlab.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/gitlab.svg" alt="GitLab" height="50" /></a>  
-        <a href="https://www.jenkins.io/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/jenkins-icon.svg" alt="Jenkins" height="50" /></a>  
+        <a href="https://github.com/" target="_blank">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" height="50" /></a>    
+        <a href="https://about.gitlab.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/gitlab.svg" alt="GitLab" height="50" /></a>
       </div>
       <h3 align="center">REST APIs & Metodologías</h3>
       <div align="center">
@@ -145,12 +145,12 @@ Supervisé el desarrollo de una DApp para cadena de suministro médico en blockc
 
 ## 🎓 Educación y Certificaciones
 
-- 🎓 Lic. en Ingeniería en Computación | **Universidad Autónoma Metropolitana - Azcapotzalco** | 2019 - 2025
+- 🎓 Lic. en Ingeniería en Computación | **Universidad Autónoma Metropolitana - Azcapotzalco** | Diciembre 2019 - Mayo 2025
 - 🎓 Técnico en Computación | **Instituto Politécnico Nacional - CECyT 8 "Narciso Bassols"** | 2012 - 2015
 - 📜 Desarrollador Java Full Stack | **Bootcamp Generation México** | 2025
 - 📜 AWS Certified Cloud Practitioner | **Amazon AWS** | 2025
-- 📜 PCEP – Certified Entry-Level Python Programmer | **Python Institute** | 2024
 - 📜 Scrum Fundamentals | **SCRUMStudy** | 2025
+- 📜 PCEP – Certified Entry-Level Python Programmer | **Python Institute** | 2024
 - 📜 Desarrollador Java Backend | **Oracle Next Education** | 2023 - 2024
 
 ## 📫 Conecta Conmigo
