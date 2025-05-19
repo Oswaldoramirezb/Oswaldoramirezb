@@ -128,19 +128,19 @@ Supervisé el desarrollo de una DApp para cadena de suministro médico en blockc
 ## 📊 Estadísticas de GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Oswaldoramirezb&show_icons=true&count_private=true&hide_border=true&theme=react" align="center" style="width: 100%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Oswaldoramirezb&show_icons=true&count_private=true&hide_border=true&theme=react" align="center" style="width: 50%" />
 </div>  
 
 <br>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Oswaldoramirezb&theme=react&hide_border=true" align="center" style="width: 100%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Oswaldoramirezb&theme=react&hide_border=true" align="center" style="width: 50%" />
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Oswaldoramirezb&hide_border=true&layout=compact&theme=react" align="center" style="width: 70%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Oswaldoramirezb&hide_border=true&layout=compact&theme=react" align="center" style="width: 40%" />
 </div>
 
 ## 🎓 Educación y Certificaciones
@@ -166,4 +166,3 @@ Supervisé el desarrollo de una DApp para cadena de suministro médico en blockc
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </div>
-
