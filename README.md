@@ -21,7 +21,20 @@
 
 <img align="right" width="300" height="220" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2ExNWk3dXBiNzFwdGdpYnZmaXJ4NWlmMnpndG5rNjJqeTI0b2R4NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
 
-Desarrollador Full Stack especializado en Backend, con sólida experiencia en Java y Python. Motivado y comprometido con gran capacidad de aprendizaje. Apasionado por la arquitectura de sistemas, APIs RESTful y soluciones técnicas eficientes orientadas a resultados.
+Desarrollador Full Stack especializado en Backend, con sólida experiencia en Java y Python. Motivado y comprometido con gran capacidad de aprendizaje. Apasionado por la arquitectura de sistemas, APIs RESTful y soluciones técnicas eficientes orientadas a resultados. Actualmente, como Software Engineer en un proyecto (Restake Watch) para la Ethereum Foundation, contribuyo activamente al desarrollo de soluciones técnicas avanzadas para Restake Watch, una plataforma de análisis de riesgo en el ecosistema de restaking. Mi trabajo se centra en la automatización, gestión de datos y servicios backend.
+
+Mis responsabilidades incluyen:
+- Diseño y mantenimiento de scripts y métricas utilizando Python.
+- Desarrollo de APIs REST y automatización de flujos de trabajo con AWS Lambda, S3 y EC2.
+- Gestión y optimización de bases de datos MongoDB.
+- Implementación de tareas de web scraping con Selenium.
+- Automatización de la generación de reportes e integración con Twitter.
+- Liderazgo en la creación y mantenimiento de subgraphs con The Graph (GraphQL) para interactuar con smart contracts de Ethereum.
+- Gestión de control de versiones con Git/GitHub, implementando flujos seguros con GitHub Actions.
+
+
+- El proyecto tuvo buena aceptación y se convirtio en empresa.
+Conoce más sobre Restake Watch: https://restake.watch/
 
 - 🔭 Actualmente trabajo en **Ethereum Foundation** como Software Engineer
 - 🌱 Aprendiendo constantemente sobre **Spring Boot, AWS, GraphQL y Blockchain**
@@ -29,6 +42,11 @@ Desarrollador Full Stack especializado en Backend, con sólida experiencia en Ja
 - 💻 Enfoque principal en desarrollo **Backend y arquitectura de aplicaciones**
 - 📍 Ubicado en **Ciudad de México, México**
 - 🌐 Idiomas: **Español (Nativo), Inglés (B2)**
+
+## 📚 Soft Skills
+
+Creatividad | Proactividad | Trabajo en equipo | Resolución de Problemas | Adaptabilidad | Inteligencia Emocional | Comunicación Asertiva | Gestión y Administración de Tiempo | Orientación al detalle
+
 
 ## 🛠️ Habilidades Técnicas
 
@@ -85,9 +103,10 @@ Desarrollador Full Stack especializado en Backend, con sólida experiencia en Ja
 <a href="https://github.com/Oswaldoramirezb/ComplementSS">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Oswaldoramirezb&repo=ComplementSS&theme=react&hide_border=true" />
 </a>
-<a href="https://github.com/Oswaldoramirezb/proyecto-salud-bienestar">
+<!-- <a href="https://github.com/Oswaldoramirezb/proyecto-salud-bienestar">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Oswaldoramirezb&repo=proyecto-salud-bienestar&theme=react&hide_border=true" />
 </a>
+-->
 
 <br><br>
 
@@ -104,7 +123,7 @@ Desarrollé un sistema web para conectar estudiantes universitarios con empleado
 Creé una aplicación web full-stack para conectar profesionistas de salud y clientes, implementando geolocalización y chat en tiempo real usando PHP, MySQL y JavaScript. Desarrollé una API RESTful para la comunicación cliente-servidor, interfaces interactivas con AJAX y un sistema de calificaciones y reseñas para profesionales.
 
 ### Hackaton Web 3.0 Medical Supply Chain
-Supervisé el desarrollo de una DApp para cadena de suministro médico en blockchain, implementando Smart Contracts en Fuel y Sway. Gestioné un equipo multidisciplinario a través de todas las fases del proyecto, desde la concepción hasta la implementación final, siguiendo metodologías ágiles y asegurando la integridad del proceso.
+Supervisé el desarrollo de una DApp para cadena de suministro médico en blockchain, implementando Smart Contracts en Fuel y Sway. Gestioné un equipo multidisciplinario a través de todas las fases del proyecto, desde la concepción hasta la implementación final, siguiendo metodologías ágiles y asegurando la integridad del proceso. Este proyecto destaca mi capacidad para liderar equipos en entornos innovadores y mi experiencia en tecnologías emergentes como blockchain y Smart Contracts.
 
 ## 📊 Estadísticas de GitHub
 
@@ -147,3 +166,4 @@ Supervisé el desarrollo de una DApp para cadena de suministro médico en blockc
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </div>
+
