@@ -98,22 +98,6 @@ Creatividad | Proactividad | Trabajo en equipo | Resolución de Problemas | Adap
   </tr>
 </table>  
 
-## 🚀 Proyectos Destacados
-
-<a href="https://github.com/Oswaldoramirezb/ComplementSS">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Oswaldoramirezb&repo=ComplementSS&theme=react&hide_border=true" />
-</a>
-<!-- <a href="https://github.com/Oswaldoramirezb/proyecto-salud-bienestar">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Oswaldoramirezb&repo=proyecto-salud-bienestar&theme=react&hide_border=true" />
-</a>
--->
-
-<br><br>
-
-<a href="https://github.com/duedme/Medical-Supply-Chain">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=duedme&repo=Medical-Supply-Chain&theme=react&hide_border=true" />
-</a>
-
 ## 🔍 Descripción de Proyectos
 
 ### Sistema Web de Empleabilidad UAM (ComplementSS)
