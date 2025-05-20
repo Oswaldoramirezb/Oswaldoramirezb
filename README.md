@@ -125,24 +125,6 @@ Creé una aplicación web full-stack para conectar profesionistas de salud y cli
 ### Hackaton Web 3.0 Medical Supply Chain
 Supervisé el desarrollo de una DApp para cadena de suministro médico en blockchain, implementando Smart Contracts en Fuel y Sway. Gestioné un equipo multidisciplinario a través de todas las fases del proyecto, desde la concepción hasta la implementación final, siguiendo metodologías ágiles y asegurando la integridad del proceso. Este proyecto destaca mi capacidad para liderar equipos en entornos innovadores y mi experiencia en tecnologías emergentes como blockchain y Smart Contracts.
 
-## 📊 Estadísticas de GitHub
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Oswaldoramirezb&show_icons=true&count_private=true&hide_border=true&theme=react" align="center" style="width: 50%" />
-</div>  
-
-<br>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Oswaldoramirezb&theme=react&hide_border=true" align="center" style="width: 50%" />
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Oswaldoramirezb&hide_border=true&layout=compact&theme=react" align="center" style="width: 40%" />
-</div>
-
 ## 🎓 Educación y Certificaciones
 
 - 🎓 Lic. en Ingeniería en Computación | **Universidad Autónoma Metropolitana - Azcapotzalco** | Diciembre 2019 - Mayo 2025
