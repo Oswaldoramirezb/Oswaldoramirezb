@@ -6,7 +6,7 @@
 <h1 align="center">¡Hola! 👋 Soy Oswaldo Alfredo Ramirez Bautista</h1>
 
 <p align="center">
-  <a href="mailto:oswaldo.ramirezbau@gmail.com"><img src="https://img.shields.io/badge/Email-oswaldo.ramirezbau%40gmail.com-informational?style=flat&logo=gmail&logoColor=white&color=0C75EF"></a>
+  <a href="mailto:oswaldorb9@gmail.com"><img src="https://img.shields.io/badge/Email-oswaldorb9%40gmail.com-informational?style=flat&logo=gmail&logoColor=white&color=0C75EF"></a>
   <a href="https://www.linkedin.com/in/oswaldoramirezdev/"><img src="https://img.shields.io/badge/LinkedIn-Oswaldo_Ramirez-informational?style=flat&logo=linkedin&logoColor=white&color=0A66C2"></a>
   <a href="https://github.com/Oswaldoramirezb"><img src="https://img.shields.io/badge/GitHub-Oswaldoramirezb-informational?style=flat&logo=github&logoColor=white&color=181717"></a>
   <img src="https://komarev.com/ghpvc/?username=Oswaldoramirezb&style=flat-square&color=740955" alt="Vistas del perfil" />
