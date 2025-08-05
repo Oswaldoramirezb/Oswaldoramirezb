@@ -21,7 +21,7 @@
 
 <img align="right" width="300" height="220" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2ExNWk3dXBiNzFwdGdpYnZmaXJ4NWlmMnpndG5rNjJqeTI0b2R4NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
 
-Actualmente, como **Software Engineer en un proyecto para Ethereum Foundation**, contribuyo activamente al desarrollo de soluciones técnicas avanzadas para **Restake Watch**, una plataforma de análisis de riesgo en el ecosistema de restaking. Mi trabajo se centra en la automatización, gestión de datos y servicios backend.
+Actualmente, como **Software Engineer jr en un proyecto para Ethereum Foundation**, contribuyo activamente al desarrollo de soluciones técnicas avanzadas para **Restake Watch**, una plataforma de análisis de riesgo en el ecosistema de restaking. Mi trabajo se centra en la automatización, gestión de datos y servicios backend.
 
 **Mis responsabilidades incluyen:**
 - Diseño y mantenimiento de scripts y métricas utilizando **Python**.
@@ -42,7 +42,7 @@ Conoce más sobre Restake Watch: https://restake.watch/
 - 💼 Experiencia con **Java, Python, JavaScript, PHP, SQL, NoSQL, RESTful APIs**
 - 💻 Enfoque principal en desarrollo **Backend y arquitectura de aplicaciones**
 - 📍 Ubicado en **Ciudad de México, México**
-- 🌐 Idiomas: **Español (Nativo), Inglés (B2)**
+- 🌐 Idiomas: **Español (Nativo), Inglés (B1)**
 
 ## 📚 Soft Skills
 
@@ -114,7 +114,6 @@ Supervisé el desarrollo de una DApp para cadena de suministro médico en blockc
 - 🎓 Lic. en Ingeniería en Computación | **Universidad Autónoma Metropolitana - Azcapotzalco** | Diciembre 2019 - Mayo 2025
 - 🎓 Técnico en Computación | **Instituto Politécnico Nacional - CECyT 8 "Narciso Bassols"** | 2012 - 2015
 - 📜 Desarrollador Java Full Stack | **Bootcamp Generation México** | 2025
-- 📜 AWS Certified Cloud Practitioner | **Amazon AWS** | 2025
 - 📜 Scrum Fundamentals | **SCRUMStudy** | 2025
 - 📜 PCEP – Certified Entry-Level Python Programmer | **Python Institute** | 2024
 - 📜 Desarrollador Java Backend | **Oracle Next Education** | 2023 - 2024
