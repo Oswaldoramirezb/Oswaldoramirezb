@@ -27,7 +27,6 @@ Actualmente, como **Software Engineer jr en un proyecto para Ethereum Foundation
 - Diseño y mantenimiento de scripts y métricas utilizando **Python**.
 - Desarrollo de APIs REST y automatización de flujos de trabajo con **AWS Lambda, S3 y EC2.**
 - Gestión y optimización de bases de datos **MongoDB.**
-- Implementación de tareas de **web scraping con Selenium.**
 - Automatización de la generación de reportes con Twitter.
 - Liderazgo en la creación y mantenimiento de subgraphs con **The Graph (GraphQL)** para interactuar con smart contracts de Ethereum.
 - Gestión de control de versiones con **Git/GitHub**, implementando flujos seguros con GitHub Actions.
