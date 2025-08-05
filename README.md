@@ -120,7 +120,7 @@ Supervisé el desarrollo de una DApp para cadena de suministro médico en blockc
 ## 📫 Conecta Conmigo
 
 <div align="center">
-  <a href="mailto:oswaldo.ramirezbau@gmail.com">
+  <a href="mailto:oswaldorb9@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://www.linkedin.com/in/oswaldoramirezdev/">
