@@ -111,7 +111,7 @@ Supervisé el desarrollo de una DApp para cadena de suministro médico en blockc
 
 ## 🎓 Educación y Certificaciones
 
-- 🎓 Lic. en Ingeniería en Computación | **Universidad Autónoma Metropolitana - Azcapotzalco** | Diciembre 2019 - Mayo 2025
+- 🎓 Lic. en Ingeniería en Computación | **Universidad Autónoma Metropolitana - Azcapotzalco** | Enero 2020 - Mayo 2025
 - 🎓 Técnico en Computación | **Instituto Politécnico Nacional - CECyT 8 "Narciso Bassols"** | 2012 - 2015
 - 📜 Desarrollador Java Full Stack | **Bootcamp Generation México** | 2025
 - 📜 Scrum Fundamentals | **SCRUMStudy** | 2025
