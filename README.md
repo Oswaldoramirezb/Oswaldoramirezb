@@ -1,9 +1,5 @@
-<!-- Banner personalizado con tecnologías -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png" alt="Banner de desarrollador" width="100%">
-</div>
 
-<h1 align="center">¡Hola! 👋 Soy Oswaldo Alfredo Ramirez Bautista</h1>
+<h1 align="center">¡Hola! 👋 Soy Oswaldo Ramirez </h1>
 
 <p align="center">
   <a href="mailto:oswaldorb9@gmail.com"><img src="https://img.shields.io/badge/Email-oswaldorb9%40gmail.com-informational?style=flat&logo=gmail&logoColor=white&color=0C75EF"></a>
