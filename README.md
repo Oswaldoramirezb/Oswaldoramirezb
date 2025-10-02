@@ -37,7 +37,7 @@ Conoce más sobre Restake Watch: https://restake.watch/
 - 💼 Experiencia con **Java, Python, JavaScript, PHP, SQL, NoSQL, RESTful APIs**
 - 💻 Enfoque principal en desarrollo **Backend y arquitectura de aplicaciones**
 - 📍 Ubicado en **Ciudad de México, México**
-- 🌐 Idiomas: **Español (Nativo), Inglés (B1)**
+- 🌐 Idiomas: **Español (Nativo), Inglés (B2)**
 
 ## 📚 Soft Skills
 
