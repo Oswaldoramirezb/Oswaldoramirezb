@@ -17,7 +17,7 @@
 
 <img align="right" width="300" height="220" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2ExNWk3dXBiNzFwdGdpYnZmaXJ4NWlmMnpndG5rNjJqeTI0b2R4NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
 
-Actualmente, como **Software Engineer en Grupo Gayosso**, participo en el desarrollo y buscar soluciones técnicas para proyectos con **Microservicios**, utilizando lenguajes de programacion como Java, Python, Javascript y Typescript. Ejerciendo buenas practicas de desarrollo apegandonos a las normas ISO9001 e ISO27001.
+Actualmente, como **Software Engineer en Grupo Gayosso**, participo en el desarrollo y buscar soluciones técnicas para proyectos con **Microservicios**, utilizando lenguajes de programacion como Java, Python, Javascript y Typescript. Ejerciendo buenas practicas de desarrollo apegandonos a las normas ISO9001 e ISO27001. Así como lograr la implementacion de estos mismos en servicios de AWS.
 
 
 Como **Software Engineer jr en un proyecto para Ethereum Foundation**, contribuyo activamente al desarrollo de soluciones técnicas avanzadas para **Restake Watch**, una plataforma de análisis de riesgo en el ecosistema de restaking. Mi trabajo se centra en la automatización, gestión de datos y servicios backend.
