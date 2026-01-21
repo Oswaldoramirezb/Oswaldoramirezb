@@ -16,9 +16,9 @@
 ## 📊 GitHub Metrics
 
 <div align="center">
-  <!-- GitHub general stats -->
+  <!-- GitHub general stats (estable) -->
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=Oswaldoramirezb&show_icons=true&count_private=true&include_all_commits=true&theme=default" 
+    src="https://github-readme-stats.vercel.app/api?username=Oswaldoramirezb&show_icons=true&count_private=true&theme=default&cache_seconds=86400" 
     height="165"
   />
 
@@ -31,10 +31,11 @@
 
 <div align="center">
   <sub>
-    Métricas generadas dinámicamente a partir de la actividad real en GitHub 
+    Métricas generadas dinámicamente a partir de la actividad real en GitHub
     (commits, repositorios y contribuciones públicas/privadas).
   </sub>
 </div>
+
 
 
 ## 👨‍💻 Sobre mí
