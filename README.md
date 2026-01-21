@@ -16,25 +16,16 @@
 ## 📊 GitHub Metrics
 
 <div align="center">
-  <!-- GitHub general stats (estable) -->
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=Oswaldoramirezb&show_icons=true&count_private=true&theme=default&cache_seconds=86400" 
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Oswaldoramirezb&show_icons=true&count_private=true&theme=default&cache_seconds=86400"
     height="165"
   />
-
-  <!-- Commit streak -->
-  <img 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=Oswaldoramirezb&theme=default" 
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Oswaldoramirezb&layout=compact&langs_count=8&theme=default&cache_seconds=86400"
     height="165"
   />
 </div>
 
-<div align="center">
-  <sub>
-    Métricas generadas dinámicamente a partir de la actividad real en GitHub
-    (commits, repositorios y contribuciones públicas/privadas).
-  </sub>
-</div>
 
 
 
