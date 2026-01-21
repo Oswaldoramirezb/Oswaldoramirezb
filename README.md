@@ -13,6 +13,30 @@
   <img src="https://img.shields.io/badge/Ingeniería-en_Computación-informational?style=for-the-badge&logo=academic-cap&logoColor=white&color=740955" alt="Ingeniería en Computación">
 </div>
 
+## 📊 GitHub Metrics
+
+<div align="center">
+  <!-- GitHub general stats -->
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=Oswaldoramirezb&show_icons=true&count_private=true&include_all_commits=true&theme=default" 
+    height="165"
+  />
+
+  <!-- Commit streak -->
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=Oswaldoramirezb&theme=default" 
+    height="165"
+  />
+</div>
+
+<div align="center">
+  <sub>
+    Métricas generadas dinámicamente a partir de la actividad real en GitHub 
+    (commits, repositorios y contribuciones públicas/privadas).
+  </sub>
+</div>
+
+
 ## 👨‍💻 Sobre mí
 
 <img align="right" width="300" height="220" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2ExNWk3dXBiNzFwdGdpYnZmaXJ4NWlmMnpndG5rNjJqeTI0b2R4NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
