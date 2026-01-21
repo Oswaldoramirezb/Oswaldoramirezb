@@ -13,21 +13,6 @@
   <img src="https://img.shields.io/badge/Ingeniería-en_Computación-informational?style=for-the-badge&logo=academic-cap&logoColor=white&color=740955" alt="Ingeniería en Computación">
 </div>
 
-## 📊 GitHub Metrics
-
-<div align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=Oswaldoramirezb&show_icons=true&count_private=true&theme=default&cache_seconds=86400"
-    height="165"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Oswaldoramirezb&layout=compact&langs_count=8&theme=default&cache_seconds=86400"
-    height="165"
-  />
-</div>
-
-
-
 
 ## 👨‍💻 Sobre mí
 
@@ -122,6 +107,46 @@ Creé una aplicación web full-stack para conectar profesionistas de salud y cli
 
 ### Hackaton Web 3.0 Medical Supply Chain
 Supervisé el desarrollo de una DApp para cadena de suministro médico en blockchain, implementando Smart Contracts en Fuel y Sway. Gestioné un equipo multidisciplinario a través de todas las fases del proyecto, desde la concepción hasta la implementación final, siguiendo metodologías ágiles y asegurando la integridad del proceso. Este proyecto destaca mi capacidad para liderar equipos en entornos innovadores y mi experiencia en tecnologías emergentes como blockchain y Smart Contracts.
+
+### 🚀 Proyectos Destacados
+
+#### 🧠 ChainTicket — Tokenized Tickets & Queues (Web3 / Backend)
+🔗 https://github.com/duedme/ChainTicket  
+- Backend services y lógica de negocio
+- Integración con AWS (Lambda, DynamoDB, Bedrock)
+- Arquitectura orientada a microservicios
+- Proyecto colaborativo enfocado en soluciones Web3 reales
+
+![Commits](https://img.shields.io/github/commit-activity/m/duedme/ChainTicket)
+![Last Commit](https://img.shields.io/github/last-commit/duedme/ChainTicket)
+![Contributors](https://img.shields.io/github/contributors/duedme/ChainTicket)
+
+---
+
+#### 🏃‍♂️ Sprintásticos Backend — API & Servicios
+🔗 https://github.com/dreaice/Sprintasticos-backend  
+- Desarrollo de APIs REST
+- Lógica de negocio y manejo de datos
+- Enfoque backend con separación de capas
+- Trabajo colaborativo en entorno ágil
+
+![Commits](https://img.shields.io/github/commit-activity/m/dreaice/Sprintasticos-backend)
+![Last Commit](https://img.shields.io/github/last-commit/dreaice/Sprintasticos-backend)
+![Contributors](https://img.shields.io/github/contributors/dreaice/Sprintasticos-backend)
+
+---
+
+#### 🖥️ Sprintásticos Frontend — Aplicación Web
+🔗 https://github.com/dreaice/Sprintasticos  
+- Desarrollo frontend
+- Consumo de APIs REST
+- Integración frontend–backend
+- Proyecto full-stack en equipo
+
+![Commits](https://img.shields.io/github/commit-activity/m/dreaice/Sprintasticos)
+![Last Commit](https://img.shields.io/github/last-commit/dreaice/Sprintasticos)
+![Contributors](https://img.shields.io/github/contributors/dreaice/Sprintasticos)
+
 
 ## 🎓 Educación y Certificaciones
 
