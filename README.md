@@ -98,10 +98,6 @@ Este proyecto resalta mi capacidad de **liderazgo técnico** y trabajo con **tec
 - Arquitectura orientada a microservicios
 - Proyecto colaborativo enfocado en soluciones Web3 reales
 
-![Commits](https://img.shields.io/github/commit-activity/m/duedme/ChainTicket)
-![Last Commit](https://img.shields.io/github/last-commit/duedme/ChainTicket)
-![Contributors](https://img.shields.io/github/contributors/duedme/ChainTicket)
-
 ---
 
 ### 🏃‍♂️ Sprintásticos Backend — API & Servicios
@@ -111,10 +107,6 @@ Este proyecto resalta mi capacidad de **liderazgo técnico** y trabajo con **tec
 - Lógica de negocio y separación por capas
 - Trabajo colaborativo en entorno ágil
 
-![Commits](https://img.shields.io/github/commit-activity/m/dreaice/Sprintasticos-backend)
-![Last Commit](https://img.shields.io/github/last-commit/dreaice/Sprintasticos-backend)
-![Contributors](https://img.shields.io/github/contributors/dreaice/Sprintasticos-backend)
-
 ---
 
 ### 🖥️ Sprintásticos Frontend — Aplicación Web
@@ -123,10 +115,6 @@ Este proyecto resalta mi capacidad de **liderazgo técnico** y trabajo con **tec
 - Desarrollo frontend
 - Consumo de APIs REST
 - Integración frontend–backend
-
-![Commits](https://img.shields.io/github/commit-activity/m/dreaice/Sprintasticos)
-![Last Commit](https://img.shields.io/github/last-commit/dreaice/Sprintasticos)
-![Contributors](https://img.shields.io/github/contributors/dreaice/Sprintasticos)
 
 ---
 
