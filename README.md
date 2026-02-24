@@ -65,7 +65,7 @@ El proyecto tuvo buena aceptación y evolucionó a empresa.
 ### 🎓 Sistema Web de Empleabilidad UAM (ComplementSS)
 **Proyecto académico**
 
-Desarrollé un sistema web para conectar estudiantes universitarios con empleadores potenciales utilizando **Java, MySQL y JavaScript**.  
+Desarrollé un sistema web para conectar estudiantes universitarios con empleadores potenciales utilizando **Java/Springboot, MySQL y JavaScript/React**.  
 Implementé una **arquitectura MVC**, un **panel administrativo con filtros avanzados**, **validación de datos**, **control de sesiones** y un sistema para la **generación dinámica de CVs en PDF**, mejorando la visibilidad de los perfiles estudiantiles.
 
 ---
@@ -73,7 +73,7 @@ Implementé una **arquitectura MVC**, un **panel administrativo con filtros avan
 ### 🏥 Aplicación Web para Servicios de Salud y Bienestar
 **Proyecto académico**
 
-Desarrollé una aplicación **full-stack** para conectar profesionistas de la salud con clientes usando **Java, MySQL y JavaScript**.  
+Desarrollé una aplicación **full-stack** para conectar profesionistas de la salud con clientes usando **Java/Springboot, MySQL y JavaScript/React**.  
 Incluye **geolocalización**, **chat en tiempo real**, una **API REST**, uso de **AJAX** para interfaces dinámicas y un sistema de **calificaciones y reseñas**.
 
 ---
