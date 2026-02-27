@@ -27,7 +27,7 @@
 Actualmente soy **Software Engineer en Grupo Gayosso**, donde participo en el diseño y desarrollo de soluciones técnicas basadas en **arquitectura de microservicios**, aplicando buenas prácticas alineadas a **ISO 9001 e ISO 27001** y desplegando servicios en **AWS**.
 
 Además, colaboré como **Software Engineer Jr. en un proyecto vinculado a Ethereum Foundation**, participando en **Restake Watch**, una plataforma de análisis de riesgo para el ecosistema de *restaking*. Mi enfoque principal es el **backend**, automatización y manejo de datos jejjee.
-
+no
 ### Responsabilidades clave
 - Desarrollo de **APIs REST** y servicios backend.
 - Automatización de flujos con **AWS Lambda, S3 y EC2**.
