@@ -53,7 +53,7 @@ El proyecto tuvo buena aceptación y evolucionó a empresa.
 
 **Backend:** Java · Spring Boot · Python · REST APIs · MVC  
 **Bases de datos:** MySQL · PostgreSQL · MongoDB  
-**Cloud:** AWS (Lambda, S3, EC2, Amplify, API Gateway, Bedrock) · Azure
+**Cloud:** AWS (Lambda, S3, EC2, Amplify, API Gateway, Bedrock, SAM, VPC, IAM) · Azure
 **DevOps:** Git · GitHub · GitHub Actions · Linux · Bash  
 **Frontend:** HTML · CSS · JavaScript · Bootstrap  
 **Metodologías:** Scrum · Arquitectura MVC · APIs REST
