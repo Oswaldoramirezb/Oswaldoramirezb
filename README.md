@@ -30,7 +30,7 @@ Además, colaboré como **Software Engineer Jr. en un proyecto vinculado a Ether
 
 ### Responsabilidades clave
 - Desarrollo de **APIs REST** y servicios backend.
-- Automatización de flujos con **AWS Lambda, S3, EC2, Terraform, SAM, Amplify, API Gateway, Cognito, IAM **.
+- Automatización de flujos con **AWS Lambda, S3, EC2, Terraform, SAM, Amplify, API Gateway, Cognito, IAM, VPCs, entre otras **.
 - Gestión y optimización de bases de datos **MongoDB**.
 - Integración de métricas, reportes y automatizaciones.
 - Control de versiones con **Git/GitHub** y flujos con **GitHub Actions**.
